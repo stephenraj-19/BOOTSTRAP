@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Roboto:wght@300&display=swap');
+body{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/codingbg.png");
+}
+.coverpage{
+    border:7px solid #48ee59;
+    background-color: #00000080;
+    font-family: 'Bree Serif', serif;
+}
